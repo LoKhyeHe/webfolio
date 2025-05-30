@@ -64,7 +64,7 @@ Today, I am passionate about engineering and problem solving as an aspiring entr
                   const SizedBox(width: 24),
 
                   // text on the right
-                  Flexible(
+                Flexible(
                     flex: 2,
                     child: Text(
                       aboutText,
